@@ -1,0 +1,28 @@
+import '../../res/import/import.dart';
+
+final Color handoverPrimaryColor = Color.fromRGBO(4, 46, 46,0.73);
+final Color handoverMainColor = Color.fromRGBO(55,246,246,0.49 );
+final Color handoverLightMainColor =  Color(0xFFE27211);
+final Color handoverPrimaryColor7 = Color(0xFF2B2E17);
+final Color handoverBlack = Colors.black;
+final Color handoverGrey = Colors.grey;
+final Color handoverPrimaryColor1 = Color(0xFF5F3A1D);
+final Color handoverWhite = Colors.white;
+final Color handoverPrimaryColor2 = Color(0xFF846C2A);
+final Color handoverPrimaryColor3 = Color(0xFF677157);
+final Color handoverPrimaryColor4 = Color(0xFF8C6F4E);
+final Color handoverPrimaryColor5 = Color(0xFFCFDEAC);
+final Color handoverOnboardingBackgroundColor = Color(0xFFE1D4B0);
+final Color handoverBackgroundColor = Color(0xFFF8F7EF);
+final Color handoverTextColor = Color(0xFF8A8A8A);
+final Color handoverAppNavigationTextColor = Color(0xFF1E1E1E);
+final Color handoverCustomButtonTextColor = Color(0xFFF2F1E6);
+final Color handoverHintTextColor = Color(0xFFA9A9A9);
+final Color handoverBlueColor = Color(0xFF1976D2);
+final Color handoverPremiumColor = Color(0xFFFFC107);
+final Color handoverPremium1Color = Color(0xFFD47403);
+final Color handoverSnapTextColor = Color(0xFF4C4C4C);
+final Color handoverTileColor = Color(0xFFE1D4B0);
+final Color handoverMessageTileColor = Color(0xFF263238);
+final Color handoverTextTileColor = Color(0xFFDADADA);
+final Color Transparent = Colors.transparent;
